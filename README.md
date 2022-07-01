@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Alejandro
+<p align="left"><img src=https://komarev.com/ghpvc/?username=ale94lko alt=ale94lko/></p>  
 
 <!--
 **ale94lko/ale94lko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
