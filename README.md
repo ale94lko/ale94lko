@@ -1,14 +1,23 @@
-### Hi there 👋 I'm a Fullstack Developer who love programing
-<p align="left"><img src=https://komarev.com/ghpvc/?username=ale94lko alt=ale94lko/></p>  
+### Hi there 👋
 
-<div style="widht: 99%">
-    <a href="https://github.com/ale94lko">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ale94lko&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale94lko&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-</div>
+I'm a **Fullstack Developer** who loves programming.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ale94lko&style=flat-square&color=0e75b6" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ale94lko">
+    <img height="160" src="https://github-readme-stats.shion.dev/api?username=ale94lko&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ale94lko&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 ##
-<div>
-    <img src="https://github.com/ale94lko/ale94lko/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+
+<p align="center">
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/ale94lko/ale94lko/output/github-contribution-grid-snake.svg"
+  />
+</p>
