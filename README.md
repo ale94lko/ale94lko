@@ -168,18 +168,7 @@ Also shipped internal faculty tools (PHP · CodeIgniter · MySQL).
 ## GitHub pulse
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ale94lko&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0a1628&title_color=e0b07a&icon_color=7ec8b8&text_color=c9d6e2&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale94lko&layout=compact&langs_count=8&theme=transparent&bg_color=0a1628&title_color=e0b07a&text_color=c9d6e2&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ale94lko&theme=transparent&background=0a1628&ring=e0b07a&fire=c4894a&currStreakLabel=7ec8b8&sideLabels=7ec8b8&currStreakNum=c9d6e2&sideNums=c9d6e2&dates=8fa3b8&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ale94lko&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-  </a>
 </p>
 
 <p align="center">
@@ -194,6 +183,4 @@ Also shipped internal faculty tools (PHP · CodeIgniter · MySQL).
 
 <p align="center">
   <a href="mailto:ale94lko@gmail.com">ale94lko@gmail.com</a>
-  ·
-  <a href="https://github.com/ale94lko">github.com/ale94lko</a>
 </p>
