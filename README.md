@@ -107,31 +107,6 @@ Also shipped internal faculty tools (PHP · CodeIgniter · MySQL).
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/ale94lko/php-cs-fixer-action">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale94lko&repo=php-cs-fixer-action&theme=transparent&bg_color=0a1628&title_color=e0b07a&icon_color=7ec8b8&text_color=c9d6e2&border_color=2a3f55&description_lines_count=2" alt="php-cs-fixer-action" />
-  </a>
-  <a href="https://github.com/ale94lko/sql-optima">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale94lko&repo=sql-optima&theme=transparent&bg_color=0a1628&title_color=e0b07a&icon_color=7ec8b8&text_color=c9d6e2&border_color=2a3f55&description_lines_count=2" alt="sql-optima" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ale94lko/llm-workbench">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale94lko&repo=llm-workbench&theme=transparent&bg_color=0a1628&title_color=e0b07a&icon_color=7ec8b8&text_color=c9d6e2&border_color=2a3f55&description_lines_count=2" alt="llm-workbench" />
-  </a>
-  <a href="https://github.com/ale94lko/git-token-auth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale94lko&repo=git-token-auth&theme=transparent&bg_color=0a1628&title_color=e0b07a&icon_color=7ec8b8&text_color=c9d6e2&border_color=2a3f55&description_lines_count=2" alt="git-token-auth" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ale94lko/php-queue-prophet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale94lko&repo=php-queue-prophet&theme=transparent&bg_color=0a1628&title_color=e0b07a&icon_color=7ec8b8&text_color=c9d6e2&border_color=2a3f55&description_lines_count=2" alt="php-queue-prophet" />
-  </a>
-  <a href="https://github.com/ale94lko/pr-metadata-validator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ale94lko&repo=pr-metadata-validator&theme=transparent&bg_color=0a1628&title_color=e0b07a&icon_color=7ec8b8&text_color=c9d6e2&border_color=2a3f55&description_lines_count=2" alt="pr-metadata-validator" />
-  </a>
-</p>
-
 | Project | What it does |
 |---|---|
 | [**php-cs-fixer-action**](https://github.com/ale94lko/php-cs-fixer-action) | GitHub Action to enforce PHP coding standards |
