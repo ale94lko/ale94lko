@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Fidel Alejandro Fernandez  Fullstack Developer CV">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Fidel Alejandro Fernandez â€” Fullstack Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0a1628"/>
@@ -44,15 +44,15 @@
 
   <text x="96" y="130" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="18" fill="#7ec8b8">$ whoami</text>
   <text x="96" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="#f4efe6">Fidel Alejandro Fernandez</text>
-  <text x="96" y="212" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="18" fill="#e0b07a">Fullstack Developer · Open Source · Developer Tools</text>
-  <text x="96" y="248" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#8fa3b8">United Arab Emirates · Open to opportunities</text>
+  <text x="96" y="212" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="18" fill="#e0b07a">Fullstack Developer ï¿½ Open Source ï¿½ Developer Tools</text>
+  <text x="96" y="248" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#8fa3b8">United Arab Emirates ï¿½ Open to opportunities</text>
 
   <!-- right panel metrics -->
   <rect x="830" y="70" width="300" height="196" rx="16" fill="#0c1828" stroke="#2a3f55" stroke-width="1.5"/>
   <text x="860" y="110" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#8fa3b8">PROFILE</text>
   <text x="860" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="url(#sand)">Portfolio</text>
-  <text x="860" y="188" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#7ec8b8">PHP · TypeScript · SQL</text>
-  <text x="860" y="214" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#c9d6e2">GitHub Actions · Vue · Java</text>
+  <text x="860" y="188" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#7ec8b8">PHP ï¿½ TypeScript ï¿½ SQL</text>
+  <text x="860" y="214" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#c9d6e2">GitHub Actions ï¿½ Vue ï¿½ Java</text>
   <rect x="860" y="236" width="140" height="8" rx="4" fill="url(#mint)"/>
   <rect x="1010" y="236" width="80" height="8" rx="4" fill="#c4894a" opacity="0.7"/>
 </svg>
