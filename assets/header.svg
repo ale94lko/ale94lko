@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Fidel Alejandro Fernandez  Fullstack Developer CV">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="55%" stop-color="#12233a"/>
+      <stop offset="100%" stop-color="#1a2f28"/>
+    </linearGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e0b07a"/>
+      <stop offset="100%" stop-color="#c4894a"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7ec8b8"/>
+      <stop offset="100%" stop-color="#3d9b8f"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+
+  <!-- desert dune silhouettes -->
+  <path d="M0 290 C180 250 260 310 420 275 C560 245 640 300 780 270 C920 240 1040 290 1200 255 L1200 360 L0 360 Z" fill="#0d1c30" opacity="0.9"/>
+  <path d="M0 320 C220 290 340 335 520 305 C700 275 820 330 980 300 C1080 285 1140 310 1200 295 L1200 360 L0 360 Z" fill="#152438"/>
+
+  <!-- accent orbs -->
+  <circle cx="980" cy="90" r="70" fill="#c4894a" opacity="0.12" filter="url(#soft)"/>
+  <circle cx="160" cy="80" r="50" fill="#7ec8b8" opacity="0.10" filter="url(#soft)"/>
+
+  <!-- terminal frame -->
+  <rect x="72" y="58" width="720" height="220" rx="16" fill="#08101c" stroke="#2a3f55" stroke-width="1.5"/>
+  <circle cx="100" cy="86" r="6" fill="#c4894a"/>
+  <circle cx="122" cy="86" r="6" fill="#7ec8b8"/>
+  <circle cx="144" cy="86" r="6" fill="#4a6a88"/>
+
+  <text x="96" y="130" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="18" fill="#7ec8b8">$ whoami</text>
+  <text x="96" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="#f4efe6">Fidel Alejandro Fernandez</text>
+  <text x="96" y="212" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="18" fill="#e0b07a">Fullstack Developer · Open Source · Developer Tools</text>
+  <text x="96" y="248" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#8fa3b8">United Arab Emirates · Open to opportunities</text>
+
+  <!-- right panel metrics -->
+  <rect x="830" y="70" width="300" height="196" rx="16" fill="#0c1828" stroke="#2a3f55" stroke-width="1.5"/>
+  <text x="860" y="110" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#8fa3b8">PROFILE</text>
+  <text x="860" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="url(#sand)">CV / Portfolio</text>
+  <text x="860" y="188" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#7ec8b8">PHP · TypeScript · SQL</text>
+  <text x="860" y="214" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#c9d6e2">GitHub Actions · Vue · Java</text>
+  <rect x="860" y="236" width="140" height="8" rx="4" fill="url(#mint)"/>
+  <rect x="1010" y="236" width="80" height="8" rx="4" fill="#c4894a" opacity="0.7"/>
+</svg>
