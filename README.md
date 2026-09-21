@@ -1,6 +1,5 @@
 <!--
-  GitHub Profile CV — Fidel Alejandro Fernandez Arias (@ale94lko)
-  Inspired by high-signal profile READMEs (custom header + featured pins + CV structure)
+  GitHub Profile — Fidel Alejandro Fernandez Arias (@ale94lko)
 -->
 
 <p align="center">
@@ -9,7 +8,6 @@
 
 <p align="center">
   <a href="mailto:ale94lko@gmail.com"><img src="https://img.shields.io/badge/Email-ale94lko%40gmail.com-0c1828?style=for-the-badge&logo=gmail&logoColor=e0b07a&labelColor=0a1628" alt="Email" /></a>
-  <a href="./assets/CV.pdf"><img src="https://img.shields.io/badge/Download-CV%20PDF-3d9b8f?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffffff&labelColor=0a1628" alt="Download CV" /></a>
   <a href="https://github.com/ale94lko?tab=repositories"><img src="https://img.shields.io/badge/GitHub-ale94lko-c4894a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a1628" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=ale94lko&style=for-the-badge&color=3d9b8f&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -220,13 +218,7 @@ Also shipped internal faculty tools (PHP · CodeIgniter · MySQL).
 ---
 
 <p align="center">
-  <a href="./assets/CV.pdf"><strong>Download full CV (PDF)</strong></a>
-  ·
   <a href="mailto:ale94lko@gmail.com">ale94lko@gmail.com</a>
   ·
   <a href="https://github.com/ale94lko">github.com/ale94lko</a>
-</p>
-
-<p align="center">
-  <sub>Built as a living CV — design cues from curated profile READMEs, content from professional experience + public GitHub work.</sub>
 </p>

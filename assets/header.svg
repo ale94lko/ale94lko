@@ -50,7 +50,7 @@
   <!-- right panel metrics -->
   <rect x="830" y="70" width="300" height="196" rx="16" fill="#0c1828" stroke="#2a3f55" stroke-width="1.5"/>
   <text x="860" y="110" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#8fa3b8">PROFILE</text>
-  <text x="860" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="url(#sand)">CV / Portfolio</text>
+  <text x="860" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="url(#sand)">Portfolio</text>
   <text x="860" y="188" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#7ec8b8">PHP · TypeScript · SQL</text>
   <text x="860" y="214" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" fill="#c9d6e2">GitHub Actions · Vue · Java</text>
   <rect x="860" y="236" width="140" height="8" rx="4" fill="url(#mint)"/>
