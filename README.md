@@ -20,7 +20,7 @@
 
 ## About
 
-Computer Science Engineer (graduated **with Honours**, GPA **4.79**) based in the **United Arab Emirates**.  
+Computer Science Engineer (graduated **with Honours**, GPA **4.79**) based in **Cuba**.  
 I build fullstack products and open-source **developer tools** — GitHub Actions, SQL quality, queue reliability, and local-first LLM workflows.
 
 > *Let's be realistic and do the impossible.*
@@ -44,7 +44,7 @@ I build fullstack products and open-source **developer tools** — GitHub Action
 ### Freelance — Fullstack Developer
 Open-source contributor and maintainer.
 - Contributions to **MDN Web Docs**, **Vanilla Select Box**, and **The Algorithms — PHP**
-- Author of developer tools used by the community (`php-cs-fixer-action`, `sql-optima`, and more)
+- Author of developer tools used by the community (`php-cs-fixer-action`, `sql-optima`, `llm-workbench` and more)
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ Open-source contributor and maintainer.
 - Bug fixing across application and database layers
 - New features, reports, and full modules for Canadian clients
 - Pull request reviews for the engineering team
-- **Stack:** PHP · Yii · Vue · jQuery · PostgreSQL · REST · Bootstrap
+- **Stack:** PHP · Yii · Vue · PostgreSQL · Storybook
 
 </td>
 </tr>
@@ -157,7 +157,7 @@ Also shipped internal faculty tools (PHP · CodeIgniter · MySQL).
 `Vue` `HTML` `CSS` `Bootstrap` `jQuery`
 
 **Data**  
-`PostgreSQL` `MySQL` `Oracle` `Jaspersoft`
+`PostgreSQL` `MySQL` `Oracle` `SQLite`
 
 **DevOps & tooling**  
 `GitHub Actions` `Git` `AWS` `Docker-friendly CI` `Atlassian`
